@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "682629762931",
+    "firebase_url": "https://fir-databasecrud-aaa40.firebaseio.com",
+    "project_id": "fir-databasecrud-aaa40",
+    "storage_bucket": "fir-databasecrud-aaa40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682629762931:android:3f88d3c07b6b4ca7",
+        "android_client_info": {
+          "package_name": "com.example.lenovo.firebasedatabase_crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682629762931-m3jef19glm0vibtj7hv5bo5tulnbg83s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lenovo.firebasedatabase_crud",
+            "certificate_hash": "9ffe115ef310435e57a8c09ee97f2f5c54ecbf8f"
+          }
+        },
+        {
+          "client_id": "682629762931-804h44gogdv32cpvkqu73g2toor5o45h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkY22yU-CM9o83JNWYowj0i2Wcgainzpc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682629762931-804h44gogdv32cpvkqu73g2toor5o45h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
